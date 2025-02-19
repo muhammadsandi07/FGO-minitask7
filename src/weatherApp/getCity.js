@@ -1,4 +1,4 @@
-const kota = 'Jakarta'
+const kota = 'Surabaya'
 const getDataWeather = require('./getData')
 const getCity = () => {
   getDataWeather(kota)
